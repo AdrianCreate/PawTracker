@@ -21,6 +21,8 @@ Dupa logare/inregistrare, apare direct ecranul de dashboard unde userul isi poat
 Fiecare animal are un cod qr care afiseara datele de contact ale stapanului pentru a fi contactat 
 
 ![image](https://github.com/user-attachments/assets/acd47a7e-5cd1-4560-886f-8b9bbf689495)
+![image](https://github.com/user-attachments/assets/aed24af0-dbe8-4c83-baa8-427a7aa59149)
+
 
 
 
