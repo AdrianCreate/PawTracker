@@ -1,0 +1,90 @@
+	html {
+		background-color: #ffbe98;
+	}
+    body {
+       width: 50%; 
+      padding: 20px;
+      border-radius: 6px;
+      background: #fff;
+      box-shadow: 0 0 10px #8d8d8d;
+	  font-family: Arial, sans-serif;
+		margin: 70px auto;
+		}
+
+/* Set the color and alignment for the title */
+h1 {
+  color: #333333;
+  text-align: center;
+}
+
+/* Set the style for the navigation bar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #ffffff;
+  border-bottom: 1px solid #cccccc;
+}
+
+/* Set the style for the navigation links */
+.navbar a {
+  color: #333333;
+  text-decoration: none;
+  margin: 10px;
+}
+
+/* Change the color of the navigation links on hover */
+.navbar a:hover {
+  color: #666666;
+}
+
+/* Set the style for the main content */
+div {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Set the style for the paragraphs */
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #444444;
+  text-align: center; /* Add this to center the paragraphs */
+}
+
+.links {
+	    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    width: 300px;
+
+}
+
+/* Set the style for the buttons */
+a {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 1px solid #333333;
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #333333;
+  font-weight: bold;
+}
+
+/* Change the style of the buttons on hover */
+a:hover {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+/* Set the style for the images */
+img {
+  width: 320px;
+  height: 200px;
+  object-fit: cover;
+  margin: 10px;
+  display: inline-block;
+}

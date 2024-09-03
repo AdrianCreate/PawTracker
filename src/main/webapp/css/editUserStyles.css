@@ -1,0 +1,53 @@
+html, body {
+	background-color: #ffbe98;
+	display: flex;
+	justify-content: center;
+	padding-top: 80px;
+	/*       background-color: radial-gradient( 
+    circle farthest-corner at 10% 20%,
+    rgba(253, 101, 133, 1) 0%,
+    rgba(255, 211, 165, 1) 90% */
+	);
+	
+.main-div {
+	padding: 30px;
+	border-radius: 10px;
+	display: flex;
+	background: #fff;
+}
+
+.editForm {
+	display: flex;
+	gap: 15px;
+	flex-direction: column
+}
+
+input {
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+
+.item {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+button {
+	width: -moz-fit-content;
+	width: fit-content;
+	margin-top: 10px;
+	padding: 10px 20px;
+	border: none;
+	background: linear-gradient(to right, #ff6700, #ffd400);
+	color: white;
+	cursor: pointer;
+	border-radius: 5px;
+	padding: 10px 20px;
+}
+
+.buttonDiv {
+	display: flex;
+	justify-content: center;
+}

@@ -1,0 +1,107 @@
+ 	html, body {
+      min-height: 100%;
+      background: #ffbe98;
+    
+    }
+   
+    
+    body, div, input, form, select, label {
+      padding: 0;
+      margin: 0;
+      outline: none;
+      font-size: 14px;
+      color: #666;
+      line-height: 22px;
+    }
+
+    h1 {
+      position: absolute;
+      margin: 0;
+      font-size: 36px;
+      color: white;
+      z-index: 2;
+    }
+
+    .box {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: auto;
+      padding: 20px;
+    }
+
+    form {
+  	 padding: 40px;
+  	 max-width:600px;
+     margin:40px auto;
+     box-shadow: 0 0 10px #8d8d8d;
+     border-radius: 20px;
+     background: #fff;
+    }	
+    
+    .banner {
+      position: relative;
+      height: 280px;
+      background-image: url(https://t3.ftcdn.net/jpg/05/87/14/64/360_F_587146473_V2yyDmDMNL3qqBYCXqcSTIIoPaIrLebJ.jpg);
+      background-size: cover;
+      background-position: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+    input,select {
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+    }
+    input {
+      width: calc(100% - 10px);
+      padding: 5px;
+    }
+    select {
+      width: 100%;
+      padding: 7px 0;
+      background: transparent;
+    }
+    .item {
+      position:relative;
+  	  margin-bottom:10px;
+    }
+    span.required {
+      color: red;
+      }
+    .question input {
+      width: auto;
+      margin: 0;
+      border-radius: 50%;
+      vertical-align: middle;
+    }
+    .question label {
+      display: inline-block;
+      margin: 5px 20px 15px 0;
+    }
+    .name-item input, .city-item input {
+      width: calc(50% - 20px);
+    }
+    .btn-block{
+      margin-top: 10px;
+      text-align: center;
+    }
+    button {
+      width: 150px;
+      padding: 10px;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+    }
+    #myButton {
+        background-color: #ccc;
+        color: #666;
+        cursor: not-allowed;
+    }
+    #myButton.active {
+        background-color: lightskyblue;
+        color: white;
+        cursor: pointer;
+    }
