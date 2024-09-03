@@ -23,6 +23,14 @@ Fiecare animal are un cod qr care afiseara datele de contact ale stapanului pent
 ![image](https://github.com/user-attachments/assets/acd47a7e-5cd1-4560-886f-8b9bbf689495)
 ![image](https://github.com/user-attachments/assets/aed24af0-dbe8-4c83-baa8-427a7aa59149)
 
+(Screenshoturi SQL) 
+
+![image](https://github.com/user-attachments/assets/cda1937f-3fe8-43f9-81d8-74d2a59d19ff)
+![image](https://github.com/user-attachments/assets/8de6da84-6e8e-4c83-8b43-4cb60d3a0dfd)
+(Many to many relationship)
+![image](https://github.com/user-attachments/assets/bcccef63-e43f-4117-b1aa-714a71ee1dfd) 
+
+
 
 
 
